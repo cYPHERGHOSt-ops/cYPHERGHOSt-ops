@@ -38,8 +38,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/cYPHERGHOSt-ops/cYPHERGHOSt-ops/output/snake.svg" alt="Snake animation" />
 
 ###
